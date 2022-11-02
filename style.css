@@ -53,3 +53,18 @@ p {
     height: 300px;
     overflow: auto;
 }
+
+button:hover {
+    background-color: red;
+  }
+  
+  button {
+    transition: 350ms;
+  }
+  
+  footer {
+    background-color: darkgray;
+    height: 90px;
+    width: 100vw;
+    margin: auto;
+  }
